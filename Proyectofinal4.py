@@ -1068,8 +1068,7 @@ def main():
                 elif opcion_eventos == "2":
                     agregar_evento()
                 elif opcion_eventos == "3":
-                    print("Función no implementada aún")
-                    input("Presione Enter para continuar...")
+                    editar_evento()
                 elif opcion_eventos == "4":
                     print("Función no implementada aún")
                     input("Presione Enter para continuar...")
