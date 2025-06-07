@@ -1,4 +1,4 @@
-# ProyectpFinal4 - Gestión de tienda de videojuegos
+# ProyectoFinal4 - Gestión de tienda de videojuegos
 
 ## 📌 Integrantes  
 - **Marcos Rodrigo Ambrocio Larios** - 231140
